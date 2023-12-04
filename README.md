@@ -1,7 +1,12 @@
-# 05 Third-Party API: Daily Work Planner
+# Daily Work Planner Called Divine Calendar
 
-A straight forward calender program that lets users record events for every hour of the day. This browser-based application will use jQuery to dynamically update its HTML and CSS. To enable user to remain visible even after the brower has been opened, closed or refreshed. Information about the current date and time was capture using Moment.js.
+>### Module 5 Third-Party APIs Challange: Work Day Scheduler
 
-# Application View
+A straight forward calender program that lets users record events for every hour of the day from 9am to 5pm. This browser-based application will use jQuery to dynamically update its HTML and CSS. To enable user to remain visible even after the brower has been opened, closed or refreshed. Information about the current date and time was capture using Moment.js.
 
-![img](./assets/img/Application.png)
+>### Application Screenshot
+![img](./assets/img/application.png)
+
+
+>### Link to Deployed
+* Live URL : 
