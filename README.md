@@ -9,4 +9,4 @@ A straight forward calender program that lets users record events for every hour
 
 
 >### Link to Deployed
-* Live URL : 
+* Live URL : (https://decodeplaymaker.github.io/DivineCalendar/)
