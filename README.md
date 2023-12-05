@@ -5,7 +5,7 @@
 A straight forward calender program that lets users record events for every hour of the day from 9am to 5pm. This browser-based application will use jQuery to dynamically update its HTML and CSS. To enable user to remain visible even after the brower has been opened, closed or refreshed. Information about the current date and time was capture using Moment.js.
 
 >### Application Screenshot 
-![img](./assets/img/application.png)
+![img](./assets/img/Application.png)
 
 
 >### Link to Deployed
